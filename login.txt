@@ -1,0 +1,5 @@
+user: admin3
+password: wordpressdomaci
+
+user: user4
+password: wordpressdomaci1
